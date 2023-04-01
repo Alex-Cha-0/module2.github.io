@@ -3,7 +3,7 @@
 	font-style: normal;
 	font-weight: 800;
 	font-display: swap;
-	src: url('../fonts/Open_Sans/OpenSans-ExtraBold.ttf') format('ttf');
+	src: url('../fonts/Open_Sans/OpenSans/OpenSans-ExtraBold.ttf') format('ttf');
 }
 
 @font-face {
@@ -11,7 +11,7 @@
 	font-style: mormal;
 	font-weight: 400;
 	font-display: swap;
-	src: url('../fonts/Open_Sans/OpenSans-Regular.ttf') format('ttf');
+	src: url('../fonts/Open_Sans/OpenSans/OpenSans-Regular.ttf') format('ttf');
 }
 
 @font-face {
@@ -19,7 +19,7 @@
 	font-style: normal;
 	font-weight: 700;
 	font-display: swap;
-	src: url('../fonts/Open_Sans/OpenSans-Bold.ttf') format('ttf');
+	src: url('../fonts/Open_Sans/OpenSans/OpenSans-Bold.ttf') format('ttf');
 }
 
 @font-face {
@@ -27,7 +27,7 @@
 	font-style: normal;
 	font-weight: 600;
 	font-display: swap;
-	src: url('../fonts/Open_Sans/OpenSans-SemiBold.ttf') format('ttf');
+	src: url('../fonts/Open_Sans/OpenSans/OpenSans-SemiBold.ttf') format('ttf');
 }
 
 
@@ -36,7 +36,7 @@
 	font-style: italic;
 	font-weight: 400;
 	font-display: swap;
-	src: url('../fonts/Open_Sans/OpenSans-Italic.ttf') format('ttf');
+	src: url('../fonts/Open_Sans/OpenSans/OpenSans-Italic.ttf') format('ttf');
 }
 
 
