@@ -8,7 +8,7 @@
 
 @font-face {
 	font-family: "OpenSans";
-	font-style: mormal;
+	font-style: normal;
 	font-weight: 400;
 	font-display: swap;
 	src: url('../fonts/Open_Sans/OpenSans/OpenSans-Regular.ttf') format('ttf');
@@ -649,6 +649,12 @@ footer > p {
 	.page-2-section-right {
 		margin-top: 20px;
         margin-left: 0px;
+	}
+}
+
+@media screen and (max-width: 540px) {
+	.page-5 {
+		display: block;
 	}
 }
 
