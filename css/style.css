@@ -655,6 +655,7 @@ footer > p {
 @media screen and (max-width: 540px) {
 	.page-5 {
 		display: block;
+		height: auto;
 	}
 }
 
