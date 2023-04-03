@@ -100,10 +100,6 @@ body {
 	
 }
 
-.page1-h1-intro::before {
-    content: '\00A9';
-}
-
 .intro-content {
 	vertical-align: top;
 	margin: 0 auto;
@@ -404,9 +400,9 @@ body {
 
 .page-4-rectangle-item-absolute {
 	background: rgba(0, 0, 0, 0.5);
-	width: 197px;
     height: 37px;
     display: flex;
+	flex: 1;
     align-items: center;
 }
 
@@ -654,6 +650,15 @@ footer > p {
 	}
 	.services {
 		text-align: center;
+		max-width: none;
+	}
+	.page-2-section-left {
+		display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+	}
+	.link-learn-more {
+		flex: auto;
 	}
 }
 
